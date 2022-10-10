@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmeyaShuklaXoXo
-- 👀 I’m interested in making products with impacts
-- 🌱 I’m currently learning to write quality code
+- 👀 I’m interested in making products with impact
+- 🌱 I’m currently learning to build scalable apps
 - 💞️ I’m looking to collaborate on everything interesting
 
 <!---
